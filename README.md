@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Nawshin Siddiqa and I'm a Muslims from Bangladesh.</p>
+
 
 ###
 
