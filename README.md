@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hey 👋  I am Nawshin Siddiqa  !</h1>
+<h1 align="center">Hey 👋  I am Nawshin Siddiqa  !</h1>
 
 ###
 
